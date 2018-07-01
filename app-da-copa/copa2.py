@@ -150,7 +150,7 @@ print ('')
 print ('')
 
 
-for row in listadejogos:
-	print (row)
+for linha in listadejogos:
+	print (linha)
 	
 # print (list(listadejogos))
