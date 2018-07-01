@@ -141,7 +141,7 @@ print ('')
 
 #listadejogos.sort(key=lambda item:item['Dia'], reverse=True)
 
-listadejogos.sort(key=itemgetter('Dia'), reverse=True)
+# listadejogos.sort(key=itemgetter('Dia'), reverse=True)
 
 
 #print (teste)
@@ -153,4 +153,4 @@ print ('')
 for row in listadejogos:
 	print (row)
 	
-print (list(listadejogos))
+# print (list(listadejogos))
