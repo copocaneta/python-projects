@@ -115,7 +115,7 @@ for jogosdachave in chavesetapa:
 		dataproptyhon = dt.datetime.strptime(dataarrumada, "%d/%m/%Y")
 		dataproptyhon = dataproptyhon.date()
 
-		dadosparadicionario = { "Jogo" : jogo, "Placar" : placar, "Dia" : dataproptyhon, "Horário" : horario, "Estádio": estadio}
+		dadosparadicionario = { "Jogo" : jogo, "Placar" : placar, "Dia" : dataarrumada, "Horário" : horario, "Estádio": estadio}
 		listadejogos.append([dadosparadicionario])
 		
 #		if rodada is 1:
