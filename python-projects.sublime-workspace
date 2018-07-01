@@ -1,0 +1,413 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"stars",
+				"stars-ratings-peq"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"backgrou",
+				"background-color"
+			],
+			[
+				"get_direct",
+				"get_template_directory_uri"
+			],
+			[
+				"wp_nav_me",
+				"wp_nav_menu\tWordPress: Display a navigation menu"
+			],
+			[
+				"register_nav",
+				"register_nav_menus"
+			],
+			[
+				"wp_enqueue_script",
+				"wp_enqueue_scripts"
+			],
+			[
+				"wp_enque",
+				"wp_enqueue_scripts"
+			],
+			[
+				"get_templa_dire",
+				"get_template_directory_uri"
+			],
+			[
+				"hidde",
+				"hidden-lg"
+			],
+			[
+				"list-gr",
+				"list-group-item"
+			],
+			[
+				"col",
+				"col-md-8"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"row",
+				"row"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 269.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"indenta",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"reiden",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"reident",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"install pa",
+				"Package Control: Install Package"
+			],
+			[
+				"install th",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"packin",
+				"Package Control: Install Package"
+			],
+			[
+				"setti",
+				"Preferences: Settings"
+			],
+			[
+				"packins",
+				"Package Control: Install Package"
+			],
+			[
+				"package sett",
+				"Preferences: Package Control Settings – User"
+			],
+			[
+				"user",
+				"Preferences: Package Control Settings – User"
+			],
+			[
+				"package control disab",
+				"Package Control: Disable Package"
+			],
+			[
+				"package control install ",
+				"Package Control: Install Package"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript"
+			]
+		],
+		"width": 412.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/thiagob/Documents/development/estudo_python.todo",
+		"/Users/thiagob/Documents/development/python/python-projects-github/python-projects/boas-vindas/README.md",
+		"/Users/thiagob/Documents/development/python/libs/funcoes.py",
+		"/Users/thiagob/Documents/development/python/python-projects-github/python-projects/boas-vindas/boasvindas.py",
+		"/Users/thiagob/Documents/development/python/python-projects-github/python-projects/boas-vindas/libs/funcoes.py",
+		"/Users/thiagob/Documents/development/python/python-projects-github/python-projects/boas-vindas/boasvindas_.py",
+		"/Users/thiagob/Documents/development/python/libs/__init__.py",
+		"/Users/thiagob/Documents/development/boasvindas_imdb.py",
+		"/Users/thiagob/Documents/development/teste.py",
+		"/Users/thiagob/Documents/hm-tools/asana_offline_salvo",
+		"/Users/thiagob/Documents/development/thepornkings/thekingofpornlist-layout-thiago/css/style.css",
+		"/Users/thiagob/Documents/development/teste.conf",
+		"/Users/thiagob/Documents/development/loadbalancer.conf",
+		"/Users/thiagob/Documents/descricao_servicos_spin_notafiscal",
+		"/Users/thiagob/Downloads/grhssql1.sql",
+		"/Users/thiagob/Documents/hm-tools/netstat.sh",
+		"/Users/thiagob/Documents/development/thepornkings/thekingofpornlist-layout-thiago/index_interna3.html",
+		"/Users/thiagob/Documents/development/thepornkings/thekingofpornlist-layout-thiago/index.html",
+		"/Users/thiagob/Documents/gr-ses",
+		"/Users/thiagob/Downloads/The.Walking.Dead_.S08E13.Legendei.com-UP2/The.Walking.Dead.S08E13.720p.HDTV.x264-AVS.srt",
+		"/Users/thiagob/Documents/senha_mautic_gr",
+		"/Users/thiagob/Documents/development/thepornkings/thekingofpornlist-layout-thiago/index_interna.html",
+		"/Users/thiagob/Documents/hm-tools/ssh.scpt",
+		"/Users/thiagob/Documents/development/thepornkings/thekingofpornlist-layout-thiago/js/starratings.js",
+		"/Users/thiagob/Documents/development/thepornkings/texto_thekingofcams",
+		"/Applications/XAMPP/xamppfiles/htdocs/tkoc/wp-content/themes/tkoc/style.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/tkoc/wp-content/themes/tkoc/functions.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/tkoc/wp-content/themes/tkoc/index.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/tkoc/wp-content/themes/tkoc/css/main.css",
+		"/Users/thiagob/Documents/development/thepornkings/thekingofpornlist-layout-thiago/tarefas.todo",
+		"/Users/thiagob/Documents/hm/treinamento_hm.todo",
+		"/Users/thiagob/Documents/development/thepornkings/thekingofpornlist-layout-thiago/js/navbar.js",
+		"/Users/thiagob/Documents/development/thepornkings/thekingofpornlist-layout-thiago/index7.html",
+		"/Users/thiagob/Documents/development/thepornkings/js/navbar.js",
+		"/Users/thiagob/Documents/development/thepornkings/css/style.css",
+		"/Users/thiagob/Documents/development/thepornkings/index4.html",
+		"/Users/thiagob/Documents/development/thepornkings/index2.html",
+		"/Users/thiagob/Documents/development/texto_italki",
+		"/Users/thiagob/Documents/hm-tools/run_upload_script.sh",
+		"/Users/thiagob/Documents/development/thepornkings/index.html",
+		"/Users/thiagob/Documents/protocolo_bradesco_dental",
+		"/Users/thiagob/Documents/development/tubexsex/Plugin-xhamster-importer-pro.txt",
+		"/Users/thiagob/Documents/development/thepornkings/css/custom.css",
+		"/Users/thiagob/Documents/development/querosercamgirl/textotraduzido",
+		"/Users/thiagob/Downloads/thiago_maildeleted",
+		"/Users/thiagob/Downloads/thiago_mailretrieved",
+		"/Users/thiagob/Documents/contestacao_cartaodecredito",
+		"/Users/thiagob/Documents/protocolo_itau_cartoes_fraude",
+		"/Users/thiagob/Documents/development/egcore/landing pages/lift gold serum br/versaoc.html",
+		"/Users/thiagob/Documents/vidro - carro - gol",
+		"/Users/thiagob/Documents/development/egcore/landing pages/dacne/versaoa.html",
+		"/Users/thiagob/Documents/development/egcore/landing pages/dacne/versaoa.css",
+		"/Users/thiagob/Documents/protocolo_itaucard",
+		"/Users/thiagob/Documents/development/teste.css",
+		"/Users/thiagob/Documents/development/egcore/landing pages/lift gold serum br/versaoc.css",
+		"/Users/thiagob/Documents/development/egcore/landing pages/lift gold serum br/versaob.css",
+		"/Users/thiagob/Documents/development/egcore/landing pages/lift gold serum br/versaoa.css",
+		"/Users/thiagob/Documents/development/egcore/landing pages/lift gold serum br/versaoa.html",
+		"/Users/thiagob/Documents/development/egcore/landing pages/lift gold serum br/versaob.html",
+		"/Users/thiagob/Documents/development/egcore/landing pages/lift gold serum br/versaob.js",
+		"/Users/thiagob/Documents/leads/teste3.html",
+		"/Users/thiagob/Documents/leads/teste.html",
+		"/Users/thiagob/Documents/leads/surveybr_leads2",
+		"/Users/thiagob/Documents/leads/us_leads_tudo.txt",
+		"/Users/thiagob/Documents/leads/freediapers3_leads_ok3.txt",
+		"/Users/thiagob/Documents/leads/beyonce_leads_ok.txt",
+		"/Users/thiagob/Documents/leads/mcdonalds_leads_ok.txt",
+		"/Users/thiagob/Documents/leads/macmineralize_leads_ok.txt",
+		"/Users/thiagob/Documents/leads/surveybr_leads_onliner.txt",
+		"/Users/thiagob/Documents/leads/surveybr_leads_onliner_ok.txt",
+		"/Users/thiagob/Documents/surveybr_leads3search_ok.txt",
+		"/Users/thiagob/Documents/macmineralize_leads",
+		"/Users/thiagob/Documents/macmineralize_leads_ok.txt",
+		"/Users/thiagob/Documents/surveybr_leads_ok.txt",
+		"/Users/thiagob/Documents/surveybr_leads2",
+		"/Users/thiagob/Documents/surveybr_leads",
+		"/Users/thiagob/Documents/beyonce_leads.txt",
+		"/Users/thiagob/Documents/mcdonalds_leads_ok.txt",
+		"/Users/thiagob/Documents/freediapers3_leads_ok3.txt",
+		"/Users/thiagob/Documents/mcdonalds_leads.txt",
+		"/Users/thiagob/Documents/development/growroom/bitbucket/sistema.todo",
+		"/Users/thiagob/Documents/development/hmconfig.sh",
+		"/Users/thiagob/Desktop/maxbounty",
+		"/Users/thiagob/Documents/freediapers3_leads_ok2.txt",
+		"/Users/thiagob/Documents/ok.txt",
+		"/Users/thiagob/Documents/freediapers2_leads_ok.txt",
+		"/Users/thiagob/Documents/freediapers3_leads_ok1.txt",
+		"/Users/thiagob/Documents/freediapers3_leads.txt",
+		"/Users/thiagob/Documents/freediapers_leads",
+		"/Users/thiagob/Documents/backtoschool_leads",
+		"/Users/thiagob/Documents/hosting_potential_leads",
+		"/Users/thiagob/Documents/freediapers2_leads",
+		"/Users/thiagob/Documents/development/growroom/bitbucket/shellprincipal.sh",
+		"/Users/thiagob/Documents/hm/logcasadobiscoito.txt",
+		"/Users/thiagob/Documents/development/growroom/bitbucket/enviarmailchimp.rb",
+		"/Users/thiagob/Documents/development/growroom/bitbucket/apoiasepegarcookie.js",
+		"/Users/thiagob/Documents/development/spin_novo_site/enviarmailchimp.rb",
+		"/Users/thiagob/Library/Application Support/Sublime Text 3/Packages/Straight Quotes/Main.sublime-menu",
+		"/Users/thiagob/Documents/development/growroom/bitbucket/statuspago.csv",
+		"/Users/thiagob/Desktop/merdafilhodaputa.py",
+		"/Users/thiagob/Desktop/Main.sublime-menu",
+		"/Users/thiagob/Documents/development/growroom/bitbucket/:Users:thiagob:Library:Application Support:Sublime Text 3:Straight Quotes.py",
+		"/Users/thiagob/Documents/development/spin_novo_site/spinaltandpropmailsync.sh",
+		"/Users/thiagob/Documents/development/testegrapoiase.js",
+		"/Users/thiagob/Documents/development/growroom/cookies2.txt",
+		"/Users/thiagob/Documents/development/growroom/shellprincipal.sh",
+		"/Users/thiagob/Documents/development/growroom/sistema.todo",
+		"/Users/thiagob/Documents/development/spin_novo_site/spin.todo",
+		"/Users/thiagob/Documents/development/growroom/testecasper2.js",
+		"/Users/thiagob/Documents/development/growroom/cookiescasper.txt",
+		"/Users/thiagob/Documents/development/growroom/casperjstest.coffee",
+		"/Users/thiagob/Documents/development/growroom/testethiago2.js",
+		"/Users/thiagob/Documents/development/growroom/testethiago.js",
+		"/Users/thiagob/Documents/development/growroom/cookies.txt",
+		"/Users/thiagob/Documents/development/untitled.js",
+		"/Users/thiagob/Documents/development/spin_novo_site/contasdeemail",
+		"/Users/thiagob/Documents/development/spin_velho/index.php",
+		"/Users/thiagob/Documents/development/spin_velho/index2.php",
+		"/Users/thiagob/Documents/development/spin_velho/config.php",
+		"/Users/thiagob/Documents/development/spin_novo_site/arquivos alterados:",
+		"/Users/thiagob/Documents/development/spin_velho/templates_c/%%34^349^34901537%%cta_atualizacao.tpl.php",
+		"/Users/thiagob/Documents/development/spin_velho/templates_c/%%34^349^34901537%%cta_atualizacao.tpl2.php",
+		"/Users/thiagob/Documents/development/spin_velho/templates_c/%%03^03A^03A3F20D%%morador.tpl.php",
+		"/Users/thiagob/Documents/development/spin_velho/templates_c/%%03^03A^03A3F20D%%morador2.tpl.php",
+		"/Users/thiagob/Documents/development/spin_velho/programacao/cabecalho.php",
+		"/Users/thiagob/Documents/development/spin_velho/programacao/cms_cabecalho.php",
+		"/Users/thiagob/Documents/development/spin_velho/bd.php",
+		"/Users/thiagob/Documents/development/spin_novo_site/wp_export_custom_index.php"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 129.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
